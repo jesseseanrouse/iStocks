@@ -1,0 +1,5 @@
+.stockRowTitle {
+    display: grid;
+    grid-template-columns: 2fr .5fr 1fr;
+    text-align: left;
+}
